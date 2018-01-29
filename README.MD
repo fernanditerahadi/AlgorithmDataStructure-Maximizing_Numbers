@@ -40,8 +40,9 @@ By doing so, with 10,000 numbers being inputted we do not need to evaluate 1 num
 the other 9,999 numbers thus reducing the running time significantly. 90 seconds vs 10 seconds
 on 10,000 inputs with numbers' string ranging from 1 - 999.
 
-However, there are faster solution than comparing 2 numbers which I wrote, I named it as
-"Digits Scoring". The idea is to compare the score of each number.  
+However, I wrote a faster solution that uses different strategy other 
+than comparing 2 numbers, I named it as "Digits Scoring". The idea is to 
+compare the score of each number.  
 
 If we compare 5 against 59, we should place 59 first before 5. However, if we compare
 5 against 51, 5 should be in the earlier sequence than 51. If we look closely, we
