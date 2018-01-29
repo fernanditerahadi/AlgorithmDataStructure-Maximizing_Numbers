@@ -9,10 +9,10 @@ numbers. For example, we may want our solution to output 221 instead of 212
 when the inputs are 21 and 2. Similarly, our solution should output 979797
 instead of 797799 when the inputs are 797, 79, and 9.
 
-There are ways to approach this problem. In this project, there are 3 solutions
-presented which are suggested original solution, suggested original solution
+There are ways to approach this problem. There are 3 solutions presented in this
+project: the suggested original solution, suggested original solution
 with sort and group functions, and digits scoring. The scripts (written in Python)
-of these 3 solutions can be found on Algo - Maximizing Numbers > Source Code
+of these 3 solutions can be found in Algo - Maximizing Numbers > Source Code
 
 The strategy used in the suggested original solution is:
 1. Turn number X into string
