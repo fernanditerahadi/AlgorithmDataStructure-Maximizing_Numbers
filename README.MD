@@ -92,7 +92,7 @@ To change the input in numbers.txt
 Since the rule for numbers larger than 3 digits has not been written in the script.
 Please do note that digits_scoring.exe can only evaluate up to 3 digits.
 
-The sample result of the program could be found on Algo - Maximizing Numbers > Sample Result
+The sample result of the program could be found in Algo - Maximizing Numbers > Sample Result
 
 Thank you for reading
 Have a nice day,
